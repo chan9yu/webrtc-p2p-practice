@@ -10,11 +10,6 @@
 		"type": "git",
 		"url": "https://github.com/chan9yu/webrtc-p2p-practice"
 	},
-	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild"
-		]
-	},
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc -b && vite build",
